@@ -1,0 +1,19 @@
+{
+  "name": "u200925x1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "NodeWebApp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OscaHar/DevOpsTestNnH.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OscaHar/DevOpsTestNnH/issues"
+  },
+  "homepage": "https://github.com/OscaHar/DevOpsTestNnH#readme"
+}
